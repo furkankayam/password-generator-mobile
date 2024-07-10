@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "password-generator",
+    "slug": "snack-da1b38ba-6e60-4a48-9596-2b2e7ffad96c",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.furkankaya.snackda1b38ba6e604a4895962b2e7ffad96c"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "42d954b4-0164-4b3a-961b-5f989c596715"
+      }
+    }
+  }
+}
